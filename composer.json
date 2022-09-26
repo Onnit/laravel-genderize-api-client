@@ -43,10 +43,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Onnit\\Genderize\\GenderizeServiceProvider"
+        "Pixelpeter\\Genderize\\GenderizeServiceProvider"
       ],
       "aliases": {
-        "Woocommerce": "Onnit\\Genderize\\Facades\\Genderize"
+        "Woocommerce": "Pixelpeter\\Genderize\\Facades\\Genderize"
       }
     }
   }
