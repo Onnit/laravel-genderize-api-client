@@ -46,7 +46,7 @@
         "Onnit\\Genderize\\GenderizeServiceProvider"
       ],
       "aliases": {
-        "Woocommerce": "Pixelpeter\\Genderize\\Facades\\Genderize"
+        "Woocommerce": "Onnit\\Genderize\\Facades\\Genderize"
       }
     }
   }
