@@ -1,5 +1,5 @@
 {
-  "name": "pixelpeter/laravel-genderize-api-client",
+  "name": "onnit/laravel-genderize-api-client",
   "description": "Laravel 8+ client for the genderize.io API",
   "keywords": [
     "laravel",
